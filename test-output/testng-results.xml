@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="464" started-at="2017-09-10T09:26:40Z" finished-at="2017-09-10T09:26:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="464" started-at="2017-09-10T09:26:40Z" finished-at="2017-09-10T09:26:41Z">
+      <class name="org.testsuite.SmokeTest">
+        <test-method status="PASS" signature="initiateTestCase()[pri:0, instance:org.testsuite.SmokeTest@2b98378d]" name="initiateTestCase" is-config="true" duration-ms="47" started-at="2017-09-10T14:56:40Z" finished-at="2017-09-10T14:56:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateTestCase -->
+        <test-method status="PASS" signature="TEST01_SUCCESSFULLOGIN()[pri:0, instance:org.testsuite.SmokeTest@2b98378d]" name="TEST01_SUCCESSFULLOGIN" duration-ms="381" started-at="2017-09-10T14:56:40Z" finished-at="2017-09-10T14:56:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TEST01_SUCCESSFULLOGIN -->
+      </class> <!-- org.testsuite.SmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
